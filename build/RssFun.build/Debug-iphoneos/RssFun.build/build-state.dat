@@ -1,0 +1,348 @@
+TRssFun
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.h
+c000000004A87B2A70000000000000276
+t1250407079
+s630
+i<Foundation/Foundation.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m
+c000000004A87B2710000000000000228
+t1250407025
+s552
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.h
+c000000004A8800B8000000000000035B
+t1250427064
+s859
+i<Foundation/Foundation.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m
+c000000004A88048B0000000000001209
+t1250428043
+s4617
+i"BlogRssParser.h"
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.h
+c000000004A87F03F0000000000000304
+t1250422847
+s772
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m
+c000000004A88230200000000000009F2
+t1250435842
+s2546
+i"NewsDetailViewController.h"
+i"RssFunAppDelegate.h"
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib
+c000000004A8809960000000000004026
+t1250429334
+s16422
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.h
+c000000004A87BE4800000000000003A4
+t1250410056
+s932
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m
+c000000004A87BF0C0000000000000463
+t1250410252
+s1123
+i"RssFunAppDelegate.h"
+i"RssFunViewController.h"
+i"NewsDetailViewController.h"
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.h
+c000000004A87DD63000000000000032A
+t1250418019
+s810
+i<UIKit/UIKit.h>
+i"BlogRssParser.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m
+c000000004A8802950000000000000BC7
+t1250427541
+s3015
+i"RssFunViewController.h"
+i"BlogRssParser.h"
+i"BlogRss.h"
+i"RssFunAppDelegate.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib
+c000000004A8808C6000000000000400A
+t1250429126
+s16394
+
+N/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib
+c000000004A8809900000000000003327
+t1250429328
+s13095
+
+N/Users/cui/Desktop/CUI - App/RssFun/RssFun_Prefix.pch
+c000000004A86CCAE00000000000000B5
+t1250348206
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app.dSYM
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/Info.plist
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/MainWindow.nib
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/NewsDetailViewController.nib
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/PkgInfo
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/ResourceRules.plist
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/RssFun
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/RssFunViewController.nib
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/icon.png
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/unknown.jpg
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/BlogRss.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/BlogRssParser.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/NewsDetailViewController.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/RssFun
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/RssFun.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/RssFunAppDelegate.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/RssFunViewController.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/BlogRss.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/BlogRssParser.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/NewsDetailViewController.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/RssFun
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/RssFun.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/RssFunAppDelegate.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/RssFunViewController.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/cui/Desktop/CUI - App/RssFun/icon.png
+c000000004A8808420000000000000EBD
+t1250428994
+s3773
+
+N/Users/cui/Desktop/CUI - App/RssFun/main.m
+c000000004A86CCAE0000000000000169
+t1250348206
+s361
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/unknown.jpg
+c000000004A87EDED0000000000000C96
+t1250422253
+s3222
+
+N/var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-ajbyuwvtoygndbesrwtanehgekez/RssFun_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-etpydefzzfassegxpwvffapdipcg/RssFun_Prefix.pch.gch
+t2
+s0
+
+NRssFun-Info.plist
+c000000004A8822BE00000000000003CB
+t1250435774
+s971
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/BlogRss.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/BlogRssParser.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/NewsDetailViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/RssFunAppDelegate.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/RssFunViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/main.o "/Users/cui/Desktop/CUI - App/RssFun/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/BlogRss.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/BlogRssParser.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/NewsDetailViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/RssFunAppDelegate.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/RssFunViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/main.o "/Users/cui/Desktop/CUI - App/RssFun/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib"
+r0
+
+CCopyPNGFile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/icon.png" icon.png
+r0
+
+CCpResource build/Debug-iphoneos/RssFun.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/RssFun.app/unknown.jpg unknown.jpg
+r0
+
+CCreateUniversalBinary "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/RssFun" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app.dSYM" "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/RssFun"
+r0
+
+CLd "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv6/RssFun" normal armv6
+r0
+
+CLd "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphoneos/RssFun.build/Objects-normal/armv7/RssFun" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app/Info.plist" RssFun-Info.plist
+r0
+
+CProcessPCH /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-ajbyuwvtoygndbesrwtanehgekez/RssFun_Prefix.pch.gch RssFun_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-etpydefzzfassegxpwvffapdipcg/RssFun_Prefix.pch.gch RssFun_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphoneos/RssFun.app"
+r0
+

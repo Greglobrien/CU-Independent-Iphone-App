@@ -1,0 +1,413 @@
+TRssFun
+v7
+r0
+t348715549.830289
+cCheck dependencies
+cProcessInfoPlistFile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/Info.plist" RssFun-Info.plist
+cCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib"
+cCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib"
+cCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib"
+cCpResource build/Debug-iphonesimulator/RssFun.app/unknown.jpg unknown.jpg
+cCpResource build/Debug-iphonesimulator/RssFun.app/icon.png icon.png
+cProcessPCH /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch.gch RssFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/main.o "/Users/cui/Desktop/CUI - App/RssFun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunAppDelegate.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRssParser.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRss.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/NewsDetailViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun" normal i386
+cGenerateDSYMFile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app.dSYM" "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun"
+cTouch "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.h
+c000000004A87B2A70000000000000276
+t1250407079
+s630
+i<Foundation/Foundation.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m
+c000000004A87B2710000000000000228
+t1250407025
+s552
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.h
+c000000004A8800B8000000000000035B
+t1250427064
+s859
+i<Foundation/Foundation.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m
+c000000004A88048B0000000000001209
+t1250428043
+s4617
+i"BlogRssParser.h"
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.h
+c000000004A87F03F0000000000000304
+t1250422847
+s772
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m
+c000000004A88230200000000000009F2
+t1250435842
+s2546
+i"NewsDetailViewController.h"
+i"RssFunAppDelegate.h"
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib
+c000000004A8809960000000000004026
+t1250429334
+s16422
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.h
+c000000004A87BE4800000000000003A4
+t1250410056
+s932
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m
+c000000004A87BF0C0000000000000463
+t1250410252
+s1123
+i"RssFunAppDelegate.h"
+i"RssFunViewController.h"
+i"NewsDetailViewController.h"
+i"BlogRss.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.h
+c000000004A87DD63000000000000032A
+t1250418019
+s810
+i<UIKit/UIKit.h>
+i"BlogRssParser.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m
+c000000004A8802950000000000000BC7
+t1250427541
+s3015
+i"RssFunViewController.h"
+i"BlogRssParser.h"
+i"BlogRss.h"
+i"RssFunAppDelegate.h"
+
+N/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib
+c000000004A8808C6000000000000400A
+t1250429126
+s16394
+
+N/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib
+c000000004A8809900000000000003327
+t1250429328
+s13095
+
+N/Users/cui/Desktop/CUI - App/RssFun/RssFun_Prefix.pch
+c000000004A86CCAE00000000000000B5
+t1250348206
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app
+t1327022749
+s340
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app.dSYM
+t1327022749
+s102
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/Info.plist
+t1327022748
+s662
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/MainWindow.nib
+t1327022748
+s3274
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/NewsDetailViewController.nib
+t1327022748
+s4503
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/PkgInfo
+t1327022748
+s8
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun
+t1327022749
+s51156
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFunViewController.nib
+t1327022748
+s2120
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/icon.png
+t1327022748
+s3773
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/unknown.jpg
+t1327022748
+s3222
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRss.o
+t1327022749
+s13280
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRssParser.o
+t1327022749
+s35180
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/NewsDetailViewController.o
+t1327022749
+s65956
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFun.LinkFileList
+c000000004F18C29C00000000000002FB
+t1327022748
+s763
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunAppDelegate.o
+t1327022749
+s57892
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunViewController.o
+t1327022749
+s66712
+
+N/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/main.o
+t1327022749
+s6304
+
+N/Users/cui/Desktop/CUI - App/RssFun/icon.png
+c000000004A8808420000000000000EBD
+t1250428994
+s3773
+
+N/Users/cui/Desktop/CUI - App/RssFun/main.m
+c000000004A86CCAE0000000000000169
+t1250348206
+s361
+i<UIKit/UIKit.h>
+
+N/Users/cui/Desktop/CUI - App/RssFun/unknown.jpg
+c000000004A87EDED0000000000000C96
+t1250422253
+s3222
+
+N/var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch.gch
+t1327022749
+s15814064
+
+NRssFun-Info.plist
+c000000004A8822BE00000000000003CB
+t1250435774
+s971
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348715548#348715548#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRss.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s348715549.568056
+e348715549.653549
+r1
+xCompileC
+xbuild/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRss.o
+x/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m348715549#348715549#0(0"0(0#0#53"/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m8603621984#1897"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-generated-files.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-own-target-headers.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-all-target-headers.hmap" -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-project-headers.hmap" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-I/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/include" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources/i386" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources" -include /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch -c "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRss.m" -o "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRss.o"0#
+
+CCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRssParser.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s348715549.567439
+e348715549.677808
+r1
+xCompileC
+xbuild/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRssParser.o
+x/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m: In function '-[BlogRssParser fetchAndParseRss]':
+o/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m:59: warning: class 'BlogRssParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@67"Compile /Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m348715549#348715549#0(259"/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m: In function '-[BlogRssParser fetchAndParseRss]':/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m:59: warning: class 'BlogRssParser' does not implement the 'NSXMLParserDelegate' protocol1(22@75"Class 'BlogRssParser' does not implement the 'NSXMLParserDelegate' protocol348715549#110#149#0(6@59"/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m272120843#59#0#59#0#45"class '*' does not implement the '*' protocol0(0#0#59"/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m8604217728#1909"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-generated-files.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-own-target-headers.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-all-target-headers.hmap" -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-project-headers.hmap" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-I/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/include" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources/i386" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources" -include /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch -c "/Users/cui/Desktop/CUI - App/RssFun/Classes/BlogRssParser.m" -o "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/BlogRssParser.o"0#
+
+CCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/NewsDetailViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s348715549.568689
+e348715549.674459
+r1
+xCompileC
+xbuild/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/NewsDetailViewController.o
+x/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m348715549#348715549#0(0"0(0#0#70"/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m8600476800#1931"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-generated-files.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-own-target-headers.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-all-target-headers.hmap" -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-project-headers.hmap" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-I/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/include" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources/i386" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources" -include /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch -c "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.m" -o "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/NewsDetailViewController.o"0#
+
+CCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunAppDelegate.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s348715549.566215
+e348715549.662911
+r1
+xCompileC
+xbuild/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunAppDelegate.o
+x/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m348715549#348715549#0(0"0(0#0#63"/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m8603138240#1917"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-generated-files.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-own-target-headers.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-all-target-headers.hmap" -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-project-headers.hmap" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-I/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/include" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources/i386" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources" -include /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch -c "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunAppDelegate.m" -o "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunAppDelegate.o"0#
+
+CCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunViewController.o "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s348715549.566824
+e348715549.683645
+r1
+xCompileC
+xbuild/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunViewController.o
+x/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m348715549#348715549#0(0"0(0#0#66"/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m8604701120#1923"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-generated-files.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-own-target-headers.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-all-target-headers.hmap" -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-project-headers.hmap" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-I/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/include" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources/i386" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources" -include /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch -c "/Users/cui/Desktop/CUI - App/RssFun/Classes/RssFunViewController.m" -o "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFunViewController.o"0#
+
+CCompileC build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/main.o "/Users/cui/Desktop/CUI - App/RssFun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s348715549.565479
+e348715549.646656
+r1
+xCompileC
+xbuild/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/main.o
+x/Users/cui/Desktop/CUI - App/RssFun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/cui/Desktop/CUI - App/RssFun/main.m348715549#348715549#0(0"0(0#0#42"/Users/cui/Desktop/CUI - App/RssFun/main.m8603742272#1883"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-generated-files.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-own-target-headers.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-all-target-headers.hmap" -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-project-headers.hmap" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-I/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/include" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources/i386" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources" -include /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch -c "/Users/cui/Desktop/CUI - App/RssFun/main.m" -o "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib"
+s348715548.367498
+e348715548.893979
+r1
+xCompileXIB
+x/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib
+lSLF07#2@47"CompileXIB Classes/NewsDetailViewController.xib348715548#348715548#0(0"0(0#0#72"/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib8603545376#602"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/NewsDetailViewController.nib" "/Users/cui/Desktop/CUI - App/RssFun/Classes/NewsDetailViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib"
+s348715548.366341
+e348715548.828084
+r1
+xCompileXIB
+x/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib348715548#348715548#0(0"0(0#0#50"/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib8603749760#566"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/MainWindow.nib" "/Users/cui/Desktop/CUI - App/RssFun/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib"
+s348715548.366972
+e348715548.748716
+r1
+xCompileXIB
+x/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib
+lSLF07#2@35"CompileXIB RssFunViewController.xib348715548#348715548#0(0"0(0#0#60"/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib8603683552#586"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFunViewController.nib" "/Users/cui/Desktop/CUI - App/RssFun/RssFunViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/RssFun.app/icon.png icon.png
+s348715548.368445
+e348715548.371820
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RssFun.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png348715548#348715548#0(0"0(0#0#44"/Users/cui/Desktop/CUI - App/RssFun/icon.png8601273024#462"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/cui/Desktop/CUI - App/RssFun/icon.png" "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app"0#
+
+CCpResource build/Debug-iphonesimulator/RssFun.app/unknown.jpg unknown.jpg
+s348715548.367998
+e348715548.372100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RssFun.app/unknown.jpg
+xunknown.jpg
+lSLF07#2@16"Copy unknown.jpg348715548#348715548#0(0"0(0#0#47"/Users/cui/Desktop/CUI - App/RssFun/unknown.jpg8603475840#465"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/cui/Desktop/CUI - App/RssFun/unknown.jpg" "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app"0#
+
+CGenerateDSYMFile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app.dSYM" "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun"
+s348715549.814303
+e348715549.828387
+r1
+xGenerateDSYMFile
+x/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app.dSYM
+x/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/RssFun.app.dSYM build/Debug-iphonesimulator/RssFun.app/RssFun348715549#348715549#0(0"0(0#0#81"/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun8603884736#377"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun" -o "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app.dSYM"0#
+
+CLd "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun" normal i386
+s348715549.683710
+e348715549.814222
+r1
+xLd
+x/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun
+xnormal
+xi386
+lSLF07#2@86"Link /Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun348715549#348715549#0(0"0(0#0#0"8604094496#890"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" -filelist "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/Objects-normal/i386/RssFun.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/RssFun"0#
+
+CProcessInfoPlistFile "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/Info.plist" RssFun-Info.plist
+s348715548.351973
+e348715548.366265
+r1
+xProcessInfoPlistFile
+x/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/Info.plist
+xRssFun-Info.plist
+lSLF07#2@25"Process RssFun-Info.plist348715548#348715548#0(0"0(0#0#53"/Users/cui/Desktop/CUI - App/RssFun/RssFun-Info.plist5922077858034969600#473"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RssFun-Info.plist -genpkginfo "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app/Info.plist"0#
+
+CProcessPCH /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch.gch RssFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348715548.894181
+e348715549.565396
+r1
+xProcessPCH
+x/var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch.gch
+xRssFun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile RssFun_Prefix.pch348715548#348715549#0(0"0(0#0#53"/Users/cui/Desktop/CUI - App/RssFun/RssFun_Prefix.pch8603633728#1777"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-generated-files.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-own-target-headers.hmap" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-all-target-headers.hmap" -iquote "/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/RssFun-project-headers.hmap" "-F/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator" "-I/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/include" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources/i386" "-I/Users/cui/Desktop/CUI - App/RssFun/build/RssFun.build/Debug-iphonesimulator/RssFun.build/DerivedSources" -c "/Users/cui/Desktop/CUI - App/RssFun/RssFun_Prefix.pch" -o /var/folders/2t/2tCEcaMkFICJu0iPGNmsgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RssFun_Prefix-hhibocomewodgggujniszebhgsjs/RssFun_Prefix.pch.gch0#
+
+CTouch "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app"
+s348715549.828452
+e348715549.830262
+r1
+xTouch
+x/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app
+lSLF07#2@80"Touch /Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app348715549#348715549#0(0"0(0#0#0"8603703744#275"    cd "/Users/cui/Desktop/CUI - App/RssFun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/cui/Desktop/CUI - App/RssFun/build/Debug-iphonesimulator/RssFun.app"0#
+

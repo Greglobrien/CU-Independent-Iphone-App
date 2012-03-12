@@ -1,0 +1,7 @@
+/Users/CUI/Desktop/CUI-App/RssFun/Classes/BlogRssParser.m: In function '-[BlogRssParser fetchAndParseRss]':
+/Users/CUI/Desktop/CUI-App/RssFun/Classes/BlogRssParser.m:59: warning: class 'BlogRssParser' does not implement the 'NSXMLParserDelegate' protocol
+/Users/CUI/Desktop/CUI-App/RssFun/Classes/BlogRssParser.m: In function '-[BlogRssParser parser:foundCDATA:]':
+/Users/CUI/Desktop/CUI-App/RssFun/Classes/BlogRssParser.m:127: warning: 'BlogRssParser' may not respond to '-stringByStrippingHTML:'
+/Users/CUI/Desktop/CUI-App/RssFun/Classes/BlogRssParser.m:127: warning: (Messages without a matching method signature
+/Users/CUI/Desktop/CUI-App/RssFun/Classes/BlogRssParser.m:127: warning: will be assumed to return 'id' and accept
+/Users/CUI/Desktop/CUI-App/RssFun/Classes/BlogRssParser.m:127: warning: '...' as arguments.)
